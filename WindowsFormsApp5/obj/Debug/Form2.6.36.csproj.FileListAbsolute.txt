@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\WindowsFormsTestSolution1\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\User\source\repos\WindowsFormsTestSolution1\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\User\source\repos\WindowsFormsTestSolution1\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\User\source\repos\WindowsFormsTestSolution1\WindowsFormsApp5\bin\Debug\Library2.6.36.dll
+C:\Users\User\source\repos\WindowsFormsTestSolution1\WindowsFormsApp5\bin\Debug\Library2.6.36.pdb
+C:\Users\User\source\repos\WindowsFormsTestSolution1\WindowsFormsApp5\obj\Debug\Form2.6.36.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\WindowsFormsTestSolution1\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Back.resources
+C:\Users\User\source\repos\WindowsFormsTestSolution1\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\User\source\repos\WindowsFormsTestSolution1\WindowsFormsApp5\obj\Debug\Form2.6.36.csproj.GenerateResource.Cache
+C:\Users\User\source\repos\WindowsFormsTestSolution1\WindowsFormsApp5\obj\Debug\Form2.6.36.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WindowsFormsTestSolution1\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\User\source\repos\WindowsFormsTestSolution1\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb

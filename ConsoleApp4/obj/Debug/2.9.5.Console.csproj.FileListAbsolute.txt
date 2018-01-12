@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\WindowsFormsTestSolution1\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\User\source\repos\WindowsFormsTestSolution1\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\User\source\repos\WindowsFormsTestSolution1\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\User\source\repos\WindowsFormsTestSolution1\ConsoleApp4\obj\Debug\2.9.5.Console.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WindowsFormsTestSolution1\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\User\source\repos\WindowsFormsTestSolution1\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+C:\Users\User\source\repos\ProgramArchive\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\User\source\repos\ProgramArchive\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\User\source\repos\ProgramArchive\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\User\source\repos\ProgramArchive\ConsoleApp4\obj\Debug\2.9.5.Console.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\ProgramArchive\ConsoleApp4\obj\Debug\2.9.5.Console.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ProgramArchive\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\User\source\repos\ProgramArchive\ConsoleApp4\obj\Debug\ConsoleApp4.pdb

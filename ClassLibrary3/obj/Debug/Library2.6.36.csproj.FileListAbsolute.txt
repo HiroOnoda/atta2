@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\WindowsFormsTestSolution1\ClassLibrary3\bin\Debug\ClassLibrary3.dll
+C:\Users\User\source\repos\WindowsFormsTestSolution1\ClassLibrary3\bin\Debug\ClassLibrary3.pdb
+C:\Users\User\source\repos\WindowsFormsTestSolution1\ClassLibrary3\obj\Debug\Library2.6.36.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\WindowsFormsTestSolution1\ClassLibrary3\obj\Debug\Library2.6.36.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WindowsFormsTestSolution1\ClassLibrary3\obj\Debug\ClassLibrary3.dll
+C:\Users\User\source\repos\WindowsFormsTestSolution1\ClassLibrary3\obj\Debug\ClassLibrary3.pdb

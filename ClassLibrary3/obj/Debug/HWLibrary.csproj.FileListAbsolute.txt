@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\WindowsFormsTestSolution1\ClassLibrary3\bin\Debug\Library2.6.36.dll
+C:\Users\User\source\repos\WindowsFormsTestSolution1\ClassLibrary3\bin\Debug\Library2.6.36.pdb
+C:\Users\User\source\repos\WindowsFormsTestSolution1\ClassLibrary3\obj\Debug\HWLibrary.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\WindowsFormsTestSolution1\ClassLibrary3\obj\Debug\HWLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WindowsFormsTestSolution1\ClassLibrary3\obj\Debug\Library2.6.36.dll
+C:\Users\User\source\repos\WindowsFormsTestSolution1\ClassLibrary3\obj\Debug\Library2.6.36.pdb
+C:\Users\User\source\repos\ProgramArchive\ClassLibrary3\bin\Debug\Library2.6.36.dll
+C:\Users\User\source\repos\ProgramArchive\ClassLibrary3\bin\Debug\Library2.6.36.pdb
+C:\Users\User\source\repos\ProgramArchive\ClassLibrary3\obj\Debug\HWLibrary.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\ProgramArchive\ClassLibrary3\obj\Debug\HWLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ProgramArchive\ClassLibrary3\obj\Debug\Library2.6.36.dll
+C:\Users\User\source\repos\ProgramArchive\ClassLibrary3\obj\Debug\Library2.6.36.pdb

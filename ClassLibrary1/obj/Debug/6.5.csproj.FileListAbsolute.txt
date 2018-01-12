@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\WindowsFormsTestSolution1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\User\source\repos\WindowsFormsTestSolution1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\User\source\repos\WindowsFormsTestSolution1\ClassLibrary1\obj\Debug\6.5.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\WindowsFormsTestSolution1\ClassLibrary1\obj\Debug\6.5.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WindowsFormsTestSolution1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\User\source\repos\WindowsFormsTestSolution1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
